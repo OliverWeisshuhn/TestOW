@@ -1,31 +1,17 @@
-# NUS Qiskit Workshop
-Information for Qiskit Workshop (18-20 May 2020) jointly organised by NUS QEP (Quantum Engineering Programme) and IBM.
-
-## Workshop staff
+# Praxisbegleitende Lehrveranstaltung (PBLV)
+Informationen zur praxisbegleitenden Lehrveranstaltung (PBLV) vom 01-05. Februar 2021
 
 ### Hosts
 
-- Julian Tan (IBM Quantum Business Development): [LinkedIn](https://www.linkedin.com/in/julian-tan-25623111/)
-- Chiau Yi Foo (NUS QEP Programme Manager)
-
-### Leads
-
-- Robert Loredo (IBM Technical Ambassador Lead / Qiskit Advocate): [LinkedIn](https://www.linkedin.com/in/robertloredo/), [Twitter](https://twitter.com/robertloredo)
-- Michele Grossi (IBM Technical Ambassador / Qiskit Advocate): [LinkedIn](https://www.linkedin.com/in/michele-grossi-42157486/), [Twitter](https://twitter.com/GrosQmichi)
-- Junye Huang (Quantum Developer Advocate / Qiskit Advocate): [LinkedIn](https://www.linkedin.com/in/huangjunye/), [Twitter](https://twitter.com/HuangJunye), [GitHub](https://github.com/HuangJunye)
+- Hochschule München
 
 ### Instructors
 
-- Luca Crippa (Quatum Skills Academy instructor): [LinkedIn](https://www.linkedin.com/in/luca-crippa-a29a98a2/), [Twitter](https://twitter.com/lucacrippa88)
-- Antonello Aita (Quantum Skills Academy instructor): [LinkedIn](https://www.linkedin.com/in/antonello-aita/)
-- Najla Said (Quantum Skills Academy instructor): [LinkedIn](https://www.linkedin.com/in/najla-said/)
-
+- Dr. Oliver Weisshuhn (IBM Quantum Ambassador): [LinkedIn](www.linkedin.com/in/dr-oliver-weisshuhn-b6026a8b/)
 
 ### Supports
 
-- Jing Yi Chan (IBM Quantum Ambassador): [LinkedIn](https://www.linkedin.com/in/jing-yi-chan-9153b06b/)
-- Kate Marshall (IBM Quantum Ambassador): [LinkedIn](https://www.linkedin.com/in/kate-marshall-49b337158/)
-- Jennifer Harding (IBM Quantum Ambassador): [LinkedIn](https://www.linkedin.com/in/jennifer-harding-3b26b1149/)
+- ...
 
 ## Agenda
 
