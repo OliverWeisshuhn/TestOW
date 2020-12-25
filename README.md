@@ -3,12 +3,12 @@ Informationen zur praxisbegleitenden Lehrveranstaltung (PBLV) der Hochschule Mü
 
 ### Host
 
-- Hochschule München
+- Prof. Dr. Christian Greiner (Hochschule München): [LinkedIn](https://www.linkedin.com/in/dr-christian-greiner-a6127512/)
 
 ### Instructors
 
 - Dr. Oliver Weisshuhn (IBM Quantum Ambassador): [LinkedIn](https://www.linkedin.com/in/dr-oliver-weisshuhn-b6026a8b/)
-- Isabell Heider (IBM Quantum Ambassador, Qiskit Advocate) [LinkedIn](https://www.linkedin.com/in/isabell-heider-b67ab9191/?originalSubdomain=de)
+- Isabell Heider (IBM Quantum Ambassador, Qiskit Advocate): [LinkedIn](https://www.linkedin.com/in/isabell-heider-b67ab9191/?originalSubdomain=de)
 - Carsten Thomsen (Diplom Mathematiker) 
 
 ### Supports
