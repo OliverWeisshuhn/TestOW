@@ -1,5 +1,5 @@
 # Praxisbegleitende Lehrveranstaltung (PBLV)
-Informationen zur praxisbegleitenden Lehrveranstaltung (PBLV) vom 01-05. Februar 2021
+Informationen zur praxisbegleitenden Lehrveranstaltung (PBLV) der Hochschule München vom 01-05. Februar 2021
 
 ### Hosts
 
