@@ -7,7 +7,7 @@ Informationen zur praxisbegleitenden Lehrveranstaltung (PBLV) der Hochschule Mü
 
 ### Instructors
 
-- Dr. Oliver Weisshuhn (IBM Quantum Ambassador): [LinkedIn](www.linkedin.com/in/dr-oliver-weisshuhn-b6026a8b/)
+- Dr. Oliver Weisshuhn (IBM Quantum Ambassador): [LinkedIn](https://www.linkedin.com/in/dr-oliver-weisshuhn-b6026a8b/)
 
 ### Supports
 
